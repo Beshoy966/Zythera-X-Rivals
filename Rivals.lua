@@ -1,1 +1,1 @@
-(loadstring or load)(game:HttpGet("https://www.keyforge.win/v1/load/cmr8gbia700000akrksvnth3v?e=1&script=cmr8gejtq000004ldi18lk253" .. "&_cb=" .. tostring(os.clock()) .. "-" .. tostring(math.random(0, 2147483647)),true))()
+loadstring(game:HttpGet("https://obfuscatorhub.onrender.com/api/khuikqou"))()
